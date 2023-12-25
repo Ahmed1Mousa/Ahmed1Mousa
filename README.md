@@ -7,7 +7,7 @@
 ## 👨‍💻 About me
 - 🇪🇬 I'm from Cairo, Egypt
 - 💻 Computer and Engineering Student at [Egypt Japan University Of Science & Technology] (https://www.ejust.edu.eg/))
-- 🚀 Enthusiastic about Problem-solving, DevOps, Cloud Computing, AI, and the intricate world of Embedded Systems
+- 🚀 Enthusiastic about Problem-solving, Cloud Computing, AI, and the intricate world of Embedded Systems
 
 
 **I love working with**
